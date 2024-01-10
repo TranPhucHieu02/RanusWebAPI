@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tV+Rdxbd5fd6A5IToZKMYuDOoIRvhkLBV2h0kXVE4uY=",
+  "Source": "RanusWebAPI",
+  "BasePath": "_content/RanusWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
